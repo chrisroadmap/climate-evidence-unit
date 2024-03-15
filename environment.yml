@@ -1,0 +1,11 @@
+name: climate-evidence-unit
+channels:
+  - conda-forge
+dependencies:
+  - python==3.11
+  - jupyter
+  - matplotlib
+  - nbstripout
+  - numpy
+  - pandas
+  - scipy
